@@ -1,0 +1,67 @@
+{
+  "common": {
+    "skip": "Skip",
+    "continue": "Continue",
+    "edit": "Edit",
+    "finish": "Save",
+    "title": "Notification",
+    "message": "Message",
+    "error": "Error",
+    "unknown": "Unknown",
+    "today": "Today",
+    "done": "Done",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "replay": "Replay",
+    "painting": "Painting"
+  },
+  "message": {
+    "check_connection": "Check your internet connection.",
+    "please_input": "Please input email or password",
+    "email_format_error": "Email format error, please edit",
+    "password_not_match": "Password not match, please check",
+    "verify_code_error": "Verify code error",
+    "please_choose_currency": "Please choose currency"
+  },
+  "tutorial": {
+    "tutorial_title_1": "The Alphabet for your kid",
+    "tutorial_content_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "tutorial_title_2": "Learn to write with us",
+    "tutorial_content_2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "tutorial_title_3": "Discover new letters with Animals name",
+    "tutorial_content_3": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia",
+    "button_started": "Get Started",
+    "button_continue": "Continue",
+    "button_let_go": "Let's Go!"
+  },
+  "menu": {
+    "alphabet": "New painting",
+    "game": "Play Game",
+    "words": "Learn Words",
+    "numbers": "Learn Numbers",
+    "words_left": "words left",
+    "puzzles": "puzzles"
+  },
+  "learn": {
+    "title": "New painting",
+    "words": "Animails painting",
+    "list": "Animails list",
+    "words_left": "words left",
+    "numbers": "Learn Numbers",
+    "numbers_left": "numbers left",
+    "animals_waiting_for_you": "The animals is waiting for you!",
+    "next_letter": "Next letter",
+    "next_number": "Next number",
+    "finish": "Finish",
+    "correct":"Yay! You are correct.",
+    "wrong":"Opps! Wrong answer."
+  },
+  "toolbar": {
+    "let_write": "Let's write!",
+    "animal_relate": "Animal Relate",
+    "let_play": "Let's play"
+  },
+  "play": {
+    "question": "Can you choose the correct animal?"
+  }
+}
